@@ -6,6 +6,6 @@ This repository contains solutions to problems from textbooks on a variety of to
 
 * An Introduction to Quantum Field Theory - M.E. Peskin and D.V. Schroeder
 
-### Special Topics
+### Supplemental Topics
 
 * Shock Wave Compression of Condensed Matter: A Primer - J.W. Forbes
