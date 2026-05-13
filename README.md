@@ -4,11 +4,11 @@ This repository contains solutions to problems from textbooks on a variety of to
 
 ### Condensed Matter
 
-* TBD
+* Solid State Physics - N.W. Ashcroft and N.D. Mermin
 
 ### Electrodynamics
 
-* TBD
+* Classical Electrodynamics - J.D. Jackson
 
 ### Quantum Field Theory
 
@@ -16,11 +16,11 @@ This repository contains solutions to problems from textbooks on a variety of to
 
 ### Quantum Mechanics
 
-* TBD
+* Modern Quantum Mechanics - J.J. Sakurai
 
 ### Statistical Mechanics
 
-* TBD
+* Statistical Mechanics - R.K. Pathria and P.D. Beale
 
 ### Supplemental Topics
 
