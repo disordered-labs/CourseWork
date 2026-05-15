@@ -24,4 +24,6 @@ This repository contains solutions to problems from textbooks on a variety of to
 
 ### Supplemental Topics
 
+* An Introduction to Computational Physics - T. Pang
+* Fundamentals of Photonics - B.E.A. Saleh and M.C. Teich
 * Shock Wave Compression of Condensed Matter: A Primer - J.W. Forbes
